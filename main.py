@@ -6,7 +6,7 @@ Deterministic, no network, no randomness.
 
 import os
 
-ENTRY = "I asked my smart speaker for motivation — it played the Jeopardy theme and went silent."
+ENTRY = "My screen time report just called me brave for averaging nine hours a day — even my phone has given up on me."
 
 
 def main():
