@@ -5,7 +5,7 @@
 
 One funny line for the make.fun "One Line, One Laugh" bounty (u-coral-404-one-line-one-laugh-22f2c9f3).
 
-Entry: "My smartwatch praised me for burning 300 calories — I was just chasing the Wi-Fi signal around the house." (105 characters)
+Entry: "I asked my smart speaker for motivation — it played the Jeopardy theme and went silent." (87 characters)
 
 ## Run
 
