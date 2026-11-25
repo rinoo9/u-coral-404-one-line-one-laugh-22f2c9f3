@@ -5,7 +5,7 @@
 
 One funny line for the make.fun "One Line, One Laugh" bounty (u-coral-404-one-line-one-laugh-22f2c9f3).
 
-Entry: "I asked my smart speaker for motivation — it played the Jeopardy theme and went silent." (87 characters)
+Entry: "My screen time report just called me brave for averaging nine hours a day — even my phone has given up on me." (109 characters)
 
 ## Run
 
